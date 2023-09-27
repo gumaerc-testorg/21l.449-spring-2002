@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides description of the paper assignments and reading
+  assignments for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,9 +12,9 @@ uid: b69afd7a-c977-c71c-f6aa-7d7690e7295e
 Paper Assignments
 -----------------
 
-*   Paper Assignment 1 ([PDF]({{< baseurl >}}/resources/paperassignment1))
-*   Paper Assignment 2 ([PDF]({{< baseurl >}}/resources/paperassignment2))
-*   Paper Assignment 3 ([PDF]({{< baseurl >}}/resources/paperassignment3))
+*   Paper Assignment 1 ({{% resource_link f5887beb-3ab1-e6b8-5f54-023eecee91b8 "PDF" %}})
+*   Paper Assignment 2 ({{% resource_link 91b05a49-4be6-42ed-69bc-9434fa6f74f8 "PDF" %}})
+*   Paper Assignment 3 ({{% resource_link 02f511ea-2d1f-a354-eae9-ae0c0966ee94 "PDF" %}})
 
 Reading Assignments
 -------------------
