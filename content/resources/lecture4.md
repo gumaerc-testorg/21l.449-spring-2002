@@ -2,6 +2,7 @@
 content_type: resource
 description: 'The Essays of Montaigne: On Cannibals.'
 file: /courses/21l-449-end-of-nature-spring-2002/d202f4596260b31667c39fadf29fce60_lecture4.pdf
+file_size: 111446
 file_type: application/pdf
 learning_resource_types:
 - Readings

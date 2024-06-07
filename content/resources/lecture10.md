@@ -2,6 +2,7 @@
 content_type: resource
 description: On the Inequality among Mankind.
 file: /courses/21l-449-end-of-nature-spring-2002/97e09867bd16ee0d0877eaa6870e70a9_lecture10.pdf
+file_size: 385897
 file_type: application/pdf
 learning_resource_types:
 - Readings
