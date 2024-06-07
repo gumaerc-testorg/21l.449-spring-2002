@@ -2,6 +2,7 @@
 content_type: resource
 description: Excerpts from The Prelude; or The Growth of a Poet's Mind.
 file: /courses/21l-449-end-of-nature-spring-2002/e79575ad698944fd35c6c4a365aa3a2d_lecture11.pdf
+file_size: 476870
 file_type: application/pdf
 learning_resource_types:
 - Readings
