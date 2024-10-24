@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Aristotle's Physics, Book II.
-file: /courses/21l-449-end-of-nature-spring-2002/eb62e77bf747699c4005c3c44cb725c1_lecture3.pdf
+file: /ol-ocw-studio-app/courses/21l-449-end-of-nature-spring-2002/eb62e77bf747699c4005c3c44cb725c1_lecture3.pdf
 file_size: 120326
 file_type: application/pdf
 learning_resource_types:
