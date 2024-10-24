@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Bermudas.
-file: /courses/21l-449-end-of-nature-spring-2002/93a9beb34998c7bdb280a1d70d97967a_lecture4c.pdf
+file: /ol-ocw-studio-app/courses/21l-449-end-of-nature-spring-2002/93a9beb34998c7bdb280a1d70d97967a_lecture4c.pdf
 file_size: 41793
 file_type: application/pdf
 learning_resource_types:
