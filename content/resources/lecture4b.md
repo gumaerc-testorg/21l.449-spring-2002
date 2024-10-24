@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Ode to the Virginian Voyage.
-file: /courses/21l-449-end-of-nature-spring-2002/fe2b5987aea26a5b92b66d03839bd871_lecture4b.pdf
+file: /ol-ocw-studio-app/courses/21l-449-end-of-nature-spring-2002/fe2b5987aea26a5b92b66d03839bd871_lecture4b.pdf
 file_size: 47047
 file_type: application/pdf
 learning_resource_types:
