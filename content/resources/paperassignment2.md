@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A description of the second paper assignment and suggested topics.
-file: /ol-ocw-studio-app/courses/21l-449-end-of-nature-spring-2002/91b05a494be642ed69bc9434fa6f74f8_paperassignment2.pdf
+file: /courses/21l-449-end-of-nature-spring-2002/91b05a494be642ed69bc9434fa6f74f8_paperassignment2.pdf
 file_size: 100334
 file_type: application/pdf
 learning_resource_types:
