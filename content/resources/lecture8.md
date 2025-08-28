@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes containing excerpts from "Dialogues Concerning Natural
   Religion."
-file: /courses/21l-449-end-of-nature-spring-2002/7c1dcc00f226cf15673dc688a763a876_lecture8.pdf
+file: /ol-ocw-studio-app/courses/21l-449-end-of-nature-spring-2002/7c1dcc00f226cf15673dc688a763a876_lecture8.pdf
 file_size: 173234
 file_type: application/pdf
 learning_resource_types:
