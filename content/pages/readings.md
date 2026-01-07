@@ -10,7 +10,7 @@ ocw_type: CourseSection
 title: Readings
 uid: 9241dc65-e547-78ed-55b8-1bb878e40db6
 ---
-Many of the readings may be downloaded from the {{% resource_link "b5e8055b-a640-4bde-adc2-4e713d9f2a27" "Project Gutenberg" %}} site. Those available for download have a direct link to the text listed next to the bibliographic entry.
+Many of the readings may be downloaded from the [Project Gutenberg](http://gutenberg.org/) site. Those available for download have a direct link to the text listed next to the bibliographic entry.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
@@ -38,13 +38,13 @@ Cicero. Excerpt from *On the Gods: The Discourse of Balbus.*
 
 Montaigne. "On Cannibals." ({{% resource_link "d202f459-6260-b316-67c3-9fadf29fce60" "PDF" %}})
 
-Bacon, Francis. "The New Atlantis." ({{% resource_link "c16a9305-2cc9-4261-b81a-a4d06725fd94" "download from Project Gutenberg site" %}})
+Bacon, Francis. "The New Atlantis." ([download from Project Gutenberg site](http://www.gutenberg.org/etext/2434))
 
 Drayton. *To the Virginia Voyage.* ({{% resource_link "fe2b5987-aea2-6a5b-92b6-6d03839bd871" "PDF" %}})
 
 Marvell. *Bermudas.* ({{% resource_link "93a9beb3-4998-c7bd-b280-a1d70d97967a" "PDF" %}})
 
-Shakespeare. *The Tempest.* ({{% resource_link "9c16cc1e-26c2-4f4a-9e6c-afedf120f2d4" "download from Project Gutenberg site" %}})
+Shakespeare. *The Tempest.* ([download from Project Gutenberg site](http://www.gutenberg.org/etext/2235))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -53,7 +53,7 @@ Shakespeare. *The Tempest.* (continued)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
-Defoe. *Robinson Crusoe.* ({{% resource_link "c4df877b-a092-4d52-bebe-54b2f04464a3" "download from Project Gutenberg site" %}})
+Defoe. *Robinson Crusoe.* ([download from Project Gutenberg site](https://www.gutenberg.org/ebooks/521))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
@@ -64,7 +64,7 @@ Defoe. *Robinson Crusoe.* (continued)
 
 Linnaeus. Excerpts from *The Economy of Nature*.
 
-White, Gilbert*.* Excerpt from *The Natural History of Selbourne.* ({{% resource_link "ed44a5de-2c10-4e10-b753-a3c361a62f91" "download from Project Gutenberg site" %}})
+White, Gilbert*.* Excerpt from *The Natural History of Selbourne.* ([download from Project Gutenberg site](http://www.gutenberg.org/etext/1408))
 
 Hume, David. Excerpts from *Dialogues on Natural Religion.* ({{% resource_link "7c1dcc00-f226-cf15-673d-c688a763a876" "PDF" %}})
 
@@ -96,7 +96,7 @@ Wordsworth. Selections from *The Prelude.* (continued)
 14
 {{< tdclose >}}{{< tdopen >}}
 
-Thoreau, Henry David. Excerpts from *Walden.* (in the Signet edition) ({{% resource_link "9673b258-6893-460e-b6f2-7f05cdb9b2fa" "download from Project Gutenberg site" %}}):
+Thoreau, Henry David. Excerpts from *Walden.* (in the Signet edition) ([download from Project Gutenberg site](http://www.gutenberg.org/etext/205)):
 
 - Chap. 1. "Economy." pp. 7-18 up to ". . . one kind at the expense of the others'; p 23, from "As for shelter . . ." to p. 26, ". . . the children's teeth are set on edge"; p. 32, from ". . . Though we are not so degenerate . . ." to p. 36, ". . . to the exclusion of thinking for myself"; p. 38, from "I thus found that the student . . ." to p. 58, end of chapter.
 - Chap. 2. "Where I Lived and What I Lived For." (Complete)
@@ -134,7 +134,7 @@ Keats. *The Grasshopper and the Cricket, To Autumn.*
 17
 {{< tdclose >}}{{< tdopen >}}
 
-Darwin. Selections from *On the Origin of Species.* ({{% resource_link "3f40e14d-520a-4d7e-bfef-f65963f838ad" "download from the Project Gutenberg site" %}}): 
+Darwin. Selections from *On the Origin of Species.* ([download from the Project Gutenberg site](http://www.gutenberg.org/etext/1228)): 
 
 - Chap. 1. From p. 46 ("I have discussed the probable origin . . .") to p. 55, "slow, varying and insensible changes."
 - Chap. 3 in its entirety.
@@ -155,7 +155,7 @@ Frost, Robert. *Design, Come In, The Most of It.*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
 {{< tdclose >}}{{< tdopen >}}
-Wells, H. G. *The Island of Dr. Moreau.* ({{% resource_link "b55b55e2-8878-4338-b95d-e3a04d054378" "download from Project Gutenberg site" %}})
+Wells, H. G. *The Island of Dr. Moreau.* ([download from Project Gutenberg site](http://www.gutenberg.org/etext/159))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
@@ -164,7 +164,7 @@ Wells, H. G. *The Island of Dr. Moreau.* (continued).
 21
 {{< tdclose >}}{{< tdopen >}}
 
-Huxley, T. H. "Evolution and Ethics." ({{% resource_link "7b45b41b-0224-4dd6-a6c3-830568e7b3c1" "download from Project Gutenberg site" %}})
+Huxley, T. H. "Evolution and Ethics." ([download from Project Gutenberg site](http://www.gutenberg.org/etext/2940))
 
 Hardin, Garret. "The Tragedy of the Commons."
 
